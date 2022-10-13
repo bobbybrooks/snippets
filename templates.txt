@@ -1,0 +1,85 @@
+# code block
+# -----------------------------------------------------------------------------
+# .FILENAME		  :	os-function.extension (ie, linux-count_files_in_directory.sh)
+# .USAGE		    :	./linux-count_files_in_directory.sh example-filename.txt
+# .FILES		    :	n/a
+# .AUTHOR1		  :	bobby brooks (bobby@bobby-brooks.com)
+# .AUTHOR2		  :	n/a
+# .LANGUAGEs	  :	bash python c++
+# .ENVIRONMENT	:	bash
+# .KEYWORDs		  :	count files directory
+# .CREATED		  :	2022-10-13
+# .COURSE		    :	n/a
+# .PURPOSE		  :	Counts how many files are in a directory after listing it
+# .COMMENTs		  :	n/a
+#
+# .CHANGELOG	  :	2022-10-13 - 0.1
+#					      - original creation
+#
+# .REFERENCES	  :	https://stackoverflow.com/questions/example-url.html
+#
+# .TODO         : Add GUI interface
+#
+# .COPYRIGHT    : Copyright 2022 Robert Brooks.                ,,,
+#                 Subject to the GNU license.                 (. .)
+# ---------------------------------------------------------ooO-(_)-Ooo---------
+
+
+# .FILENAME = os (Linux/Windows/etc) - function (does_a_thing) - extension (.sh/.py/.etc)
+# .USAGE = how to invoke the command and what arguments are needed
+# .FILES = what other files are necessary to run this
+# .AUTHOR1 = probably me
+# .AUTHOR2 = only necessary if I worked with someone
+# .LANGUAGES = what it's written in (python/powershell/bash/etc)
+# .ENVIRONMENT = where am I running it
+# .KEYWORDS = space separated words for searching
+# .CREATED = date I created this program YYYY-MM-DD format
+# .COURSE = if this was part of a course - n/a if I just wrote it to write it
+# .PURPOSE = synopsis in plain english of wtf this does
+# .COMMENTs = anything else that doesn't fit elsewhere
+# .CHANGELOG = What the current version is and what got changed - YYYY-MM-DD - Major.Minor revision
+# .REFERENCES = Any external references that are applicable to this project
+# .TODO = any ideas I have to add to it
+# .COPYRIGHT = my copyright/license notification - Copyright YYYY First Last. Subject to the XYZ license
+
+
+
+
+
+# ascii art
+# text:
+# http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+# image collections
+# https://www.asciiart.eu/
+# killroy
+# http://www.ascii-art.de/ascii/jkl/kilroy.txt
+
+#          _nnnn_
+#         dGGGGMMb
+#        @p~qp~~qMb
+#        M|@||@) M|
+#        @,----.JM|
+#       JS^\__/  qKL
+#      dZP        qKRb
+#     dZP          qKKb
+#    fZP            SMMb
+#    HZM            MMMM
+#    FqM            MMMM
+#  __| ".        |\dS"qML
+#  |    `.       | `' \Zq
+# _)      \.___.,|     .'
+# \____   )MMMMMP|   .'
+#      `-'       `--'
+
+#  ____    ___   ____   ____   __ __ 
+# |    \  /   \ |    \ |    \ |  |  |
+# |  o  )|     ||  o  )|  o  )|  |  |
+# |     ||  O  ||     ||     ||  ~  |
+# |  O  ||     ||  O  ||  O  ||___, |
+# |     ||     ||     ||     ||     |
+# |_____| \___/ |_____||_____||____/ 
+
+                                                          ,,,
+                                                         (. .)
+# ----------------------------------------------------ooO-(_)-Ooo-------
+
